@@ -4,7 +4,7 @@ def input_output():
 #getting input from the user
     name = input("Enter your name: ")
 
-    age = int(input("Enter your ageH: "))
+    age = int(input("Enter your age: "))
 
     height = float(input("Enter your height: "))
 
